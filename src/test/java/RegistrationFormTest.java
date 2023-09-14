@@ -17,7 +17,7 @@ import static io.qameta.allure.Allure.step;
 public class RegistrationFormTest  extends TestBase{
 
     @DisplayName("заполнение формы с помощью steps")
-    @Owner("HoruzhayaMarina")
+    @Owner("HoruzhayaMarinaa")
     @Severity(SeverityLevel.BLOCKER)
     @Tag("simple")
     @Test
