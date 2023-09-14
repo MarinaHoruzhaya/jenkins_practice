@@ -23,6 +23,7 @@ public class RegistrationFormTest {
         executeJavaScript("$('#fixedban').remove()");
         executeJavaScript("$('footer').remove()");
 
+
         $("#firstName").setValue("Marina");
         $("#lastName").setValue("Horuzhaya");
         $("#userEmail").setValue("marinakh192@gmail.com");
